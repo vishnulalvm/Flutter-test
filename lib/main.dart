@@ -109,8 +109,8 @@ class _MyHomePageState extends State<MyHomePage> {
               width: 100,
               height: 50,
               decoration: const BoxDecoration(color: Colors.blue),
-            )
-            const Text(
+            ),
+             const Text(
               'You have pushed the button this many times:',
             ),
             Text(
